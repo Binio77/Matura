@@ -35,8 +35,8 @@ int main()
         if(elementy[i] == maks)
             powtorki.insert(luki[i]);
     }
-    for( auto iter = powtorki.begin(); iter != powtorki.end(); ++iter )
-        f_wyj << * iter << ' ';
+    for( auto i = powtorki.begin(); i != powtorki.end(); ++i)
+        f_wyj << * i << ' ';
 
     
 
