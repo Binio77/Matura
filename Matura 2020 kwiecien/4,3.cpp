@@ -11,7 +11,7 @@ int main()
 {
     ifstream f_wej("dane4.txt");
     ofstream f_wyj("zadanie4,3.txt");
-    int tab[1000];
+    long int tab[1000];
     vector<int> luki;
 
     for(int i=0; i<1000; i++)
@@ -19,7 +19,7 @@ int main()
 
     for(int i=0; i<999; i++)
     {
-        int roznica = abs(tab[i] - tab[i+1]);
+        long int roznica = abs(tab[i] - tab[i+1]);
         luki.push_back(roznica);
     }
     vector<int> elementy;

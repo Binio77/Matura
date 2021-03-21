@@ -9,7 +9,7 @@ int main()
 {
     ifstream f_wej("dane4.txt");
     ofstream f_wyj("zadanie4,2.txt");
-    int tab[1000], roznica;
+    long int tab[1000], roznica;
     bool restart = true;
     vector <int> aCiag;
     vector <int> najCiag;
@@ -23,7 +23,7 @@ int main()
 
     for(int i=2; i<1000; i++)
     {
-        int sRoznica = roznica;
+        long int sRoznica = roznica;
         roznica = abs(tab[i] - tab[i-1]);
 
         if(restart)
