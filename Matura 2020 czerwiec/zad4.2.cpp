@@ -67,11 +67,9 @@ int main()
             if(wyrazy[i][j] == wyrazy[i][j+1])
             {
                 ciag += wyrazy[i][j];
-                cout<<wyrazy[i][j]<<' '<<wyrazy[i][j+1];
             }
             else
             {
-                cout<<endl;
                 ciag += wyrazy[i][j];
                 if(ciag.size() > Najciag.size())
                 {
