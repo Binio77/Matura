@@ -1,103 +1,128 @@
+68 61 7
 24 19 5
+48 43 5
+12 7 5
+42 37 5
+66 61 5
+78 73 5
+88 83 5
+76 73 3
+64 61 3
+24 19 5
+22 19 3
+64 61 3
+18 13 5
+36 31 5
+42 37 5
+56 53 3
+30 23 7
+44 41 3
+28 23 5
+94 89 5
+28 23 5
+52 47 5
+28 23 5
 6 3 3
-6 3 3
-5 aaaaa
+36 31 5
+34 31 3
+58 53 5
+3 jhm
+5 oerst
+1 a
+7 lllllll
+6 kkkwuj
+6 wwwwww
+0 
+5 edtjt
+1 b
+4 wrty
+5 ghqqq
+4 yfuu
+3 nhn
+4 pppp
+14 fsssssssssssss
+3 uww
+3 dnj
+5 ddddd
+4 ssnv
+3 pll
+4 cxxx
+7 wrtkkkk
+9 hhhhhhhhh
+2 gs
+3 oot
+1 w
+11 wwwwwwhhddd
+4 xdhj
+4 sfgh
+5 jyjsw
+8 aaasssss
+3 mnb
+12 tttttttttttt
+13 uyyyyyyyyyyyy
+4 accc
+3 mkj
+6 hatttt
+0 
+1 r
+3 lgg
+8 zzzzzzzz
+3 iyk
+16 oooooooooooooooo
+8 lllppppp
+6 dddddd
+5 opppp
+3 ngf
+7 twghpoe
+4 yeju
+5 sssss
+7 aaaaaaa
+4 uiuo
+9 okkkkkkkk
+11 wwwllwwwwww
+3 zvz
+3 hgf
+4 gggg
 2 bb
-6 cccccc
-4 bbbb
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
-4 tttt
+6 mhgjmj
+3 ynj
+6 swyhjs
+7 aaaaaaa
+4 kjnh
+5 pllll
+7 swklnmo
+6 taaaaa
+10 jjjjjjjjjj
+1 a
+3 hht
+5 kkkkk
+3 njm
+9 oocckkkkk
+4 ttyu
+10 tttttttttt
+6 ssskkk
+10 uuuuuuuuuu
+7 gtttqqq
+13 utjdggggggggg
+4 jhmd
+33 ttttttttttttttttttttttttttttttttt
+1 i
+8 mmmfffff
+2 kl
+2 bb
+1 a
+3 hyh
+4 yhty
+4 aaaa
+8 dddddddd
+4 ijkl
+3 fmh
+14 rrrrrrrrrrrrrr
+11 nnghjjjjjjj
+4 twry
+7 aaaaaaa
+3 gfh
+4 tjut
+4 uuuu
+5 kkfjj
+4 fjkf

@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    ifstream f_wej("przyklad.txt");
+    ifstream f_wej("pary.txt");
     ofstream f_wyj("wynik43.txt");
     vector<int> liczby(100);
     vector<string> wyrazy(100);

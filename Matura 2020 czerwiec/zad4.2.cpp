@@ -19,7 +19,7 @@ bool Pierwsze(int n)
 
 int main()
 {
-    ifstream f_wej("przyklad.txt");
+    ifstream f_wej("pary.txt");
     ofstream f_wyj("wynik42.txt");
 
     vector<string>wyrazy;
