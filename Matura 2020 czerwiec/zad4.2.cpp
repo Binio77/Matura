@@ -61,21 +61,28 @@ int main()
     
     for(int i=0; i<100; i++)
     {
-        string ciag, Najciag;
-        for(int j=0; j<wyrazy[i].size()-1; j++)
+        string ciag = "", Najciag = "";
+        for(int j=1; j<wyrazy[i].size(); j++)
         {
-            if(wyrazy[i][j] == wyrazy[i][j+1])
+            if(j == 1) 
             {
-                ciag += wyrazy[i][j];
+                ciag += wyrazy[i][j-1];
+                Najciag += wyrazy[i][j-1];
             }
-            else
+
+
+            if(wyrazy[i][j-1] == wyrazy[i][j])
             {
-                ciag += wyrazy[i][j];
+                ciag += wyrazy[i][j]; 
                 if(ciag.size() > Najciag.size())
                 {
                     Najciag = ciag;
-                    ciag.clear();
                 }
+            }
+            else
+            {
+                ciag.clear();
+                ciag += wyrazy[i][j];
             }
         }
         f_wyj << Najciag.size() << ' ' << Najciag<<endl;
