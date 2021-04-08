@@ -8,10 +8,10 @@ using namespace std;
 
 int main()
 {
-    ifstream wej("pierwsze_przyklad.txt");
+    ifstream wej("pierwsze.txt");
     ofstream wyj("4,3.txt");
     int licznik = 0;
-    for(int i = 0; i < 50; i++)
+    for(int i = 0; i < 200; i++)
     {
         string liczba, stara;
         wej >> liczba;
@@ -24,11 +24,12 @@ int main()
                 suma += static_cast<int>(liczba[j])-48;
             }
             liczba = to_string(suma);
+            
         }
         if(stoi(liczba) == 1)
         {
             licznik++;
-        }   
+        }
     }
     wyj << licznik <<endl;
     getchar();

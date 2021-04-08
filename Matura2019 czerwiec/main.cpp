@@ -17,10 +17,10 @@ bool pierwsze(int n)
 
 int main()
 {
-    ifstream wej("liczby_przyklad.txt");
+    ifstream wej("liczby.txt");
     ofstream wyj("4,1.txt");
     vector<int> liczby;
-    for(int i = 0; i < 50; i++)
+    for(int i = 0; i < 300; i++)
     {
         int liczba;
         wej >> liczba;

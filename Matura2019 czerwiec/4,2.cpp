@@ -18,9 +18,9 @@ bool pierwsze(int n)
 
 int main()
 {
-    ifstream wej("pierwsze_przyklad.txt");
+    ifstream wej("pierwsze.txt");
     ofstream wyj("4,2.txt");
-    for(int i = 0; i < 50; i++)
+    for(int i = 0; i < 200; i++)
     {
         string liczba, stary;
         wej >> liczba;
