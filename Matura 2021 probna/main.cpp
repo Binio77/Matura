@@ -23,14 +23,17 @@ int main()
         for(int j = 0; j < 70; j++)
         {
             suma += x[j] * y[j];
-            P.insert(x[j] * y[j]);
+            
             if(x[j] != 0)
+            {
                 liczba_lokali++;
+                P.insert(x[j] * y[j]);
+            }
         }
         powierzchnia = suma;
         cout << miasto << ' ' << powierzchnia << ' ' << liczba_lokali << endl;
         
-        int rozne_lokale = P.size()-1;
+        int rozne_lokale = P.size();
 
         if(rozne_lokale > najw)
         {
